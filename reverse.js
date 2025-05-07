@@ -3,5 +3,4 @@ function reverseString(str) {
     console.log(reversed);
 }
 
-// Example usage
-reverseString("Hello"); // Output: olleH
+reverseString("Hello");
